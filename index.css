@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h3{
+    text-align: left;
+    text-indent: 520px;
+    color: black;
+    font-weight: 1;
+    font-size: x-large;
+}
+
+body{
+    color: gray;
+    border: 2px solid lightgray;
+    border-collapse: 10px;
+}
+
+input{
+    width: 200px;
+    
+}
+
+button{
+    background-color: yellow;
+    border-radius: 4px;
+    height: 30px;
+    width: 300px;
+}
+
+
